@@ -1,7 +1,7 @@
 # Benchmarking Indexing Tecnhiques over Heterogeneous Data
+RWTH Aachen University / University of Bonn
 
 Master Thesis repository of Luis E. Fuenmayor, MSc. Media Informatics, RWTH Aachen University
-RWTH Aachen University / University of Bonn
 
 Chair of Informatics III, "Enterprise Information Systems"
 Römerstraße 164
