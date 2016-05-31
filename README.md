@@ -1,9 +1,5 @@
-# master-thesis
-
-Master Thesis repository of Luis E. Fuenmayor, MSc. Media Informatics, RWTH Aachen University
-
-
-# Benchmarking Indexing Tecnhiques over Heterogeneous Data
+# lefc/master-thesis
+## Benchmarking Indexing Tecnhiques over Heterogeneous Data
 RWTH Aachen University / University of Bonn
 
 Chair of Informatics III, "Enterprise Information Systems"
